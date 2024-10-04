@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#form-numeros {
+    margin-bottom: 20px;
+}
+
+#adicionar, #sortear {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#adicionar {
+    background-color: #4CAF50;
+    color: #fff;
+}
+
+#sortear {
+    background-color: #03A9F4;
+    color: #fff;
+}
+
+#resultado {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
